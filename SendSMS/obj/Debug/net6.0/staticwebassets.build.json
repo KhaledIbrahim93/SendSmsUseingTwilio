@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dqAUvUEYIuwwYXi5A5B2u6bdU/eC9ePofS8Gb+yE80A=",
+  "Source": "SendSMS",
+  "BasePath": "_content/SendSMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
